@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "BaronsAI",
+      "tensorShape": [
+        125294,
+        100
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/ColinFangshu/BaronsAI_tensorboard_projector/main/BaronsAI_vectors.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/ColinFangshu/BaronsAI_tensorboard_projector/main/BaronsAI_metadata.tsv"
+    }
+  ]
+}
